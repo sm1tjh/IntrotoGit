@@ -1,3 +1,7 @@
+# Edit by T Heaton
+b <- b + 3
+
+
 my_packages <- c("tidyverse", "broom", "coefplot", "cowplot",
                  "gapminder", "GGally", "ggrepel", "ggridges", "gridExtra",
                  "here", "interplot", "margins", "maps", "mapproj",
